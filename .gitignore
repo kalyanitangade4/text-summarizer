@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+ 
+# Jupyter
+.ipynb_checkpoints/
+ 
+# Data
+samsum-train.csv
+samsum-validation.csv
+*.csv
+ 
+# Model artifacts (large files - don't commit to GitHub)
+saved_summary_model/
+results/
+ 
+# OS
+.DS_Store
+ 
