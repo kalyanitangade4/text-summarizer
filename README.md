@@ -133,16 +133,6 @@ curl -X POST http://127.0.0.1:8000/summarize/ \
 
 ---
 
-## 🗺️ Roadmap Ideas
-
-- [ ]  Add ROUGE score evaluation on the validation set
-- [ ]  Dockerize the app for easier deployment
-- [ ]  Deploy to a cloud host (Render / Railway / Hugging Face Spaces)
-- [ ]  Support batch summarization via the API
-
----
-
-
 ## 🙋 Author
 
 **Kalyani Tangade**
